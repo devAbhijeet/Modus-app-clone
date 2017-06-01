@@ -3,7 +3,6 @@ A clone of modus app (http://modusapp.in/app/)
 
 To Run this App, run following commands
 ```jsx
-cd app
 npm install
 webpack -w
 ```
